@@ -8,11 +8,11 @@ setup(
   author = 'Aniket Gupta',
   author_email = 'aniketgupta1495@gmail.com',
   url = 'https://github.com/aniket1402/topsis_aniket.git',
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',
+  download_url = 'https://github.com/aniket1402/topsis_aniket/archive/v_01.tar.gz',
   keywords = ['SOME', 'MEANINGFULL', 'KEYWORDS'],
   install_requires=[
-          'validators',
-          'beautifulsoup4',
+          'numpy',
+          'pandas',
       ],
   classifiers=[
     'Development Status :: 3 - Alpha',
